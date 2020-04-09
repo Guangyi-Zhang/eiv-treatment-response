@@ -1,6 +1,6 @@
 ## eiv-treatment-response
 
-Source code for paper "Zhang, G., Ashrafi, R., Juuti, A., Pietiläinen, K., & Marttinen, P. (2019). Errors-in-variables Modeling of Personalized Treatment-Response Trajectories. arXiv preprint arXiv:1906.03989."
+Source code and sanitized dataset for paper "Zhang, G., Ashrafi, R., Juuti, A., Pietiläinen, K., & Marttinen, P. (2019). Errors-in-variables Modeling of Personalized Treatment-Response Trajectories. arXiv preprint arXiv:1906.03989."
 
 ### Usage
 
